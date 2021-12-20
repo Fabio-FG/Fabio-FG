@@ -1,6 +1,11 @@
 ### Hello, I'm Fábio 👋
 
-:white_medium_square: I am a Junior Fullstack Web Developer
+:white_medium_square: I am a Junior Fullstack Web Developer.
+:large_blue_diamond: I work with React JS, MongoDB, Express and Node JS (MERN) stack and JavaScript.
+⚡ Love to play and watch football :soccer: and drawing mostly manga :art:
+	:orange_circle: Languages that I speak: :portugal: :uk: :us: :fr: :jp:
+  📫 DM me on <a href="https://www.linkedin.com/in/fabiofguerreiro/">Linkedin</a> or <a href="mailto:fabio.fernando.guerreiro@gmail.com">Send me an email</a>
+
 
 <!--
 **Fabio-FG/Fabio-FG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
