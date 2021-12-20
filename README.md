@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Fábio 👋
+
+:white_medium_square: I am a Junior Fullstack Web Developer
 
 <!--
 **Fabio-FG/Fabio-FG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
