@@ -1,11 +1,11 @@
 ### Hello, I'm Fábio 👋
 
-<p>:white_medium_square: I am a Junior Fullstack Web Developer.</p>
-<p>:large_blue_diamond: I work with React JS, MongoDB, Express and Node JS (MERN) stack and JavaScript.</p>
-<p>⚡ Love to play and watch football :soccer: and drawing mostly manga :art:</p>
-<p>:england: Languages that I speak: :portugal: :uk: :us: :fr: :jp:</p>
-<p>:bowtie: Big CSS afficionado </p>
-<p>📫 DM me on <a href="https://www.linkedin.com/in/fabiofguerreiro/">Linkedin</a> or <a href="mailto:fabio.fernando.guerreiro@gmail.com">Send me an email</a></p>
+ 🔭 I am a Junior Fullstack Web Developer.<br>
+:large_blue_diamond: I work with React JS, MongoDB, Express and Node JS (MERN) stack and JavaScript.<br>
+⚡ Love to play and watch football :soccer: and drawing mostly manga :art:<br>
+:england: Languages that I speak: :portugal: :uk: :us: :fr: :jp:<br>
+:bowtie: Big CSS afficionado <br>
+📫 DM me on <a href="https://www.linkedin.com/in/fabiofguerreiro/">Linkedin</a> or <a href="mailto:fabio.fernando.guerreiro@gmail.com">Send me an email</a><br>
 
 
 <!--
