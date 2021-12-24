@@ -9,7 +9,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-FG)](https://github.com/Fabio-FG/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-FG&show_icons=true&theme=radical)
 
 <!--
