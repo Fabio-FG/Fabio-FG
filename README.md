@@ -12,6 +12,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-FG&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-FG&show_icons=true&theme=radical)](https://github.com/Fabio-FG/github-readme-stats)
+
 <!--
 **Fabio-FG/Fabio-FG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
