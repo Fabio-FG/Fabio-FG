@@ -8,19 +8,15 @@
 📫 DM me on <a href="https://www.linkedin.com/in/fabiofguerreiro/">Linkedin</a> or <a href="mailto:fabio.fernando.guerreiro@gmail.com">Send me an email</a><br>
 
 
-<div class="container">
-<div class="stats">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-FG&show_icons=true&theme=radical)
- </div>
-<div class="stats">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-FG&show_icons=true&theme=radical)](https://github.com/Fabio-FG/github-readme-stats)
- </div>
-</div>
 
-<style>
- .container{
- display: flex;
- </style>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-FG&show_icons=true&theme=radical)
+ 
+ <br>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-FG&show_icons=true&theme=radical)](https://github.com/Fabio-FG/github-readme-stats)
+
+
+
 
 
 <!--
