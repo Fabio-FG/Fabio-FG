@@ -7,7 +7,7 @@
 :bowtie: Big CSS afficionado <br>
 📫 DM me on <a href="https://www.linkedin.com/in/fabiofguerreiro/">Linkedin</a> or <a href="mailto:fabio.fernando.guerreiro@gmail.com">Send me an email</a><br>
 
-
+<br>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-FG&show_icons=true&theme=radical)
  
