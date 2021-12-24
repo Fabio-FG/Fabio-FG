@@ -8,6 +8,8 @@
 📫 DM me on <a href="https://www.linkedin.com/in/fabiofguerreiro/">Linkedin</a> or <a href="mailto:fabio.fernando.guerreiro@gmail.com">Send me an email</a><br>
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-FG)](https://github.com/Fabio-FG/github-readme-stats)
 <!--
 **Fabio-FG/Fabio-FG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
