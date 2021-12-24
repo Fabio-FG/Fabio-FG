@@ -13,7 +13,7 @@
  
  <br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-FG&show_icons=true&theme=radical)](https://github.com/Fabio-FG/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-FG&show_icons=true&theme=radicalcard_width=200px)](https://github.com/Fabio-FG/github-readme-stats)
 
 
 
