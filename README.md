@@ -1,10 +1,11 @@
 ### Hello, I'm Fábio 👋
 
- 🔭 I am a Junior Fullstack Web Developer.<br>
-:large_blue_diamond: I work with React JS, MongoDB, Express and Node JS (MERN) stack and JavaScript.<br>
-⚡ Love to play and watch football :soccer:. One of my biggest hobbies is drawing mostly manga art :art:<br>
-:england: Languages that I speak: Portuguese - English - Japanese - French <br>
-:bowtie: Big CSS afficionado <br>
+ 🔭 I am a Software Developer.<br>
+:large_blue_diamond: I work with React, Typescript, Tailwind and Zustand for Frontend Development and Postgres, NestJS and TypeORM for Backend Development.<br>
+⚡ My hobbies include drawing manga, watching and playing football, code and spend time with my loved ones.
+:england: Languages that I speak: Portuguese (Native) - English(Fluent) - Japanese (Intermediate) - French (Basic) <br>
+:bowtie: Super curious and eager to learn more about the tech world and how everything works! I am currently trying to transition and focus my knowledge in Backend Development. The industries which I am currently more interested in are Space Systems and Green & Renewable Energy solutions. I aim to positively impact the lives of people and the world through the power of technology.<br>
+
 📫 DM me on <a href="https://www.linkedin.com/in/fabiofguerreiro/">Linkedin</a> or <a href="mailto:fabio.fernando.guerreiro@gmail.com">Send me an email</a><br>
 
 
